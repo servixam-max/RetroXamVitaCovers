@@ -1,0 +1,10 @@
+CARATULAS de RetroXam para PS Vita
+==================================
+
+Descomprime la carpeta "covers" dentro de  ux0:/data/retroxam/
+(queda asi:  ux0:/data/retroxam/covers/<sistema>/<juego>.jpg)
+
+* Son 1.847 caratulas de 16 sistemas.
+* El launcher RetroXam tambien las descarga solo mientras navegas
+  (necesita WiFi); este ZIP es para tenerlas todas de golpe.
+* Desde PC: copia por FTP con VitaShell (puerto 1337) o por USB.
